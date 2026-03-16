@@ -1,0 +1,51 @@
+# Edge AI Traffic Control System - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# ONNX Runtime (Edge Inference)
+onnx>=1.12.0
+onnxruntime>=1.14.0
+
+# Data Processing
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# SUMO Traffic Simulation
+traci>=1.16.0
+
+# Future MQTT Support (optional)
+paho-mqtt>=1.6=
+
+# Final Analytics Dashboard Requirements
+# Edge AI Based Adaptive Traffic Signal Control System
+
+# Core Framework
+streamlit==1.29.0
+
+# Data Visualization
+plotly==5.18.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Utilities
+python-dateutil==2.8.2
+
+# Optional: Database connectivity
+# psycopg2-binary==2.9.9
+# sqlalchemy==2.0.23
+
+# Optional: Video processing
+# opencv-python==4.8.1.78
+streamlit==1.29.0
+pandas==2.1.4
+numpy==1.26.2
+plotly==5.18.0

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+    <input>
+        <net-file value="C:/Program Files (x86)/Eclipse/Sumo/OSM/osm.net.xml.gz"/>
+        <route-files value="C:/Program Files (x86)/Eclipse/Sumo/OSM/osm.passenger.trips.xml,C:/Program Files (x86)/Eclipse/Sumo/OSM/osm.truck.trips.xml,C:/Program Files (x86)/Eclipse/Sumo/OSM/osm.bus.trips.xml,C:/Program Files (x86)/Eclipse/Sumo/OSM/osm.motorcycle.trips.xml,C:/Program Files (x86)/Eclipse/Sumo/OSM/osm.bicycle.trips.xml"/>
+        <additional-files value="C:/Program Files (x86)/Eclipse/Sumo/OSM/osm.poly.xml.gz"/>
+    </input>
+
+
+    <output>
+        <tripinfo-output value="tripinfos.xml"/>
+    </output>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+</sumoConfiguration>

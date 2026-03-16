@@ -1,0 +1,12 @@
+Metric,Baseline,Adaptive,Change,Change_Percent
+Vehicle Count,3607.0000,3532.0000,-75.0000,-2.0793
+Avg Trip Duration (s),414.3432,364.1175,-50.2257,12.1218
+Median Duration (s),333.0000,320.0000,-13.0000,3.9039
+Std Dev Duration (s),305.2700,232.4622,-72.8077,23.8503
+Avg Wait Time (s),159.4968,111.3641,-48.1327,30.1779
+Median Wait Time (s),73.0000,66.0000,-7.0000,9.5890
+Std Dev Wait Time (s),235.2224,158.3800,-76.8425,32.6680
+Total Wait Time (s),575305.0000,393338.0000,-181967.0000,31.6297
+Avg Time Loss (s),254.3404,206.1556,-48.1848,18.9450
+Median Time Loss (s),158.5100,147.0800,-11.4300,7.2109
+Total Time Loss (s),917405.7500,728141.4400,-189264.3100,20.6304
