@@ -1,0 +1,19 @@
+{
+  "junction_id": "MG_Road_J1",
+  "city": "Bengaluru",
+  "location": "MG Road @ Brigade Road",
+  "sumo_config": "kpit.sumocfg",
+  "use_gui": true,
+  "sim_steps": 7200,
+  "tripinfo_output": "adaptive_tripinfo.xml",
+  "lane_count": 4,
+  "min_green": 8,
+  "max_green": 60,
+  "emergency_green": 60,
+  "congestion_threshold": 7,
+  "emergency_spawn_interval": 150,
+  "emergency_spawn_probability": 0.4,
+  "mqtt_topic_prefix": "traffic/bengaluru/mg_road_j1",
+  "gru_window_size": 30,
+  "gru_forecast_steps": 6
+}

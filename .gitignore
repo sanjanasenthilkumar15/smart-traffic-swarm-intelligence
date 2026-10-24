@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+adaptive_tripinfo.xml
+baseline_tripinfo.xml
+tripinfos.xml
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.streamlit/secrets.toml
